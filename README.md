@@ -1,6 +1,5 @@
 # Fitting Poisson  distribution
-### Name : K MADHAVA REDDY
-### Reg No: 212223240064
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -32,6 +31,9 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ```python
+# Developed By : K MADHAVA REDDY
+# Reg No : 212223240064
+
 import numpy as np
 import math
 import scipy.stats
